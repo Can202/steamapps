@@ -1,6 +1,6 @@
 # Steam apps in menu with Flatpak
 
-First: Download the code or clone in Documents folder
+First: Download the [code](https://github.com/Can202/steamapps/archive/refs/tags/v0.1.zip) or clone in Documents folder
 
 the script just works in the documents folder (works in other folder, but not all, just use the documents folder)
 
