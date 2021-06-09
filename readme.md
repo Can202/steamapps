@@ -5,11 +5,14 @@ First: Download the [code](https://github.com/Can202/steamapps/archive/refs/tags
 the script just works in the documents folder (works in other folder, but not all, just use the documents folder)
 
 
-just run the script sudo.sh in the terminal
+you probably have to use sudo
 
+just run the script sudo.sh in the terminal
 
 
 
 if you use su comand, run su.sh
 
 if you want to give de root user, run root.sh
+
+
