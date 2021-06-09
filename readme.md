@@ -16,5 +16,5 @@ if you use su comand, run su.sh
 if you want to give de root user, run root.sh
 
 
-[![su](http://img.youtube.com/vi/39m4DTJnvQ0/0.jpg)](https://www.youtube.com/watch?v=39m4DTJnvQ0 "su")
+[![su](http://img.youtube.com/vi/39m4DTJnvQ0/0.jpg)](https://tuner.rayn.bo/videos/watch/ba1a3d86-9a24-402e-bfc0-56fed7f5b2dc "su")
 
