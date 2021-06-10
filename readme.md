@@ -10,7 +10,6 @@ you probably have to use sudo
 just run the script sudo.sh in the terminal
 
 
-
 if you use su comand, run su.sh
 
 if you want to give de root user, run root.sh
@@ -23,3 +22,5 @@ Su Tutorial:
 
 [![su](http://img.youtube.com/vi/39m4DTJnvQ0/0.jpg)](https://tuner.rayn.bo/videos/watch/ba1a3d86-9a24-402e-bfc0-56fed7f5b2dc "su")
 
+
+Also you can create a script, that run with root the root.sh script, when you start Linux
