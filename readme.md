@@ -17,7 +17,7 @@ if you want to give de root user, run root.sh
 
 Sudo Tutorial:
 
-[![sudo](http://img.youtube.com/vi/_6BTX5r0r84/0.jpg)](https://tuner.rayn.bo/videos/watch/8423ede0-d02c-4656-811e-75e67930b5e6 "sudo")
+[![sudo](http://img.youtube.com/vi/apjxcNOuNj0/0.jpg)](https://tuner.rayn.bo/videos/watch/b5b51b43-f6fa-451f-896b-55c96ea4fce5 "sudo")
 
 Su Tutorial:
 
