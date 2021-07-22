@@ -16,11 +16,11 @@ if you want to give de root user, run root.sh
 
 Sudo Tutorial:
 
-[![sudo](http://img.youtube.com/vi/apjxcNOuNj0/0.jpg)](https://tuner.rayn.bo/videos/watch/b5b51b43-f6fa-451f-896b-55c96ea4fce5 "sudo")
+[![sudo](http://img.youtube.com/vi/apjxcNOuNj0/0.jpg)](https://youtu.be/apjxcNOuNj0 "sudo")
 
 Su Tutorial:
 
-[![su](http://img.youtube.com/vi/39m4DTJnvQ0/0.jpg)](https://tuner.rayn.bo/videos/watch/ba1a3d86-9a24-402e-bfc0-56fed7f5b2dc "su")
+[![su](http://img.youtube.com/vi/39m4DTJnvQ0/0.jpg)](https://youtu.be/39m4DTJnvQ0 "su")
 
 
 Also you can create a script, that run with root the root.sh script, when you start Linux
