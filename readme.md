@@ -14,13 +14,4 @@ if you use su comand, run su.sh
 
 if you want to give de root user, run root.sh
 
-Sudo Tutorial:
-
-[![sudo](http://img.youtube.com/vi/apjxcNOuNj0/0.jpg)](https://youtu.be/apjxcNOuNj0 "sudo")
-
-Su Tutorial:
-
-[![su](http://img.youtube.com/vi/39m4DTJnvQ0/0.jpg)](https://youtu.be/39m4DTJnvQ0 "su")
-
-
 Also you can create a script, that run with root the root.sh script, when you start Linux
